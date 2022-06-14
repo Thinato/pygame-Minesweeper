@@ -8,10 +8,10 @@
     <img src="assets/img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">pygame-typing</h3>
+  <h3 align="center">pygame-Minesweeper</h3>
 
   <p align="center">
-    A typing game made with pygame.
+    A Minesweeper made with pygame
     <br />
     <a href="https://github.com/Thinato/pygame-Minesweeper/blob/main/game.py"><strong>Main Game file »</strong></a>
     <br />
