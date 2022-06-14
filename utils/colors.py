@@ -1,0 +1,22 @@
+# algumas core já prontas, para o código ficar mais legível
+
+WHITE = 	 (255, 255, 255)
+BLACK = 	 (000, 000, 000)
+GREY  = 	 (192, 192, 192)
+GREY_2  =    (128, 128, 128)
+GREY_3  =    (100, 100, 100)
+GREY_4  =    ( 50,  50,  50)
+GREEN = 	 (000, 255, 000)
+ORANGE = 	 (255, 165, 000)
+RED = 		 (200, 000, 000)
+DARK_BLUE =  (000,  45, 100)
+MAGENTA =    (255, 000, 255)
+
+ONE = 	(0,0,255)
+TWO = 	(0,128,0)
+THREE = (255,0,0)
+FOUR = 	(0,0,128)
+FIVE = 	(128,0,0)
+SIX = 	(0,128,128)
+SEVEN = (0,0,0)
+EIGHT = (128,128,128)
